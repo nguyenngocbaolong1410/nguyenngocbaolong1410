@@ -1,8 +1,6 @@
 ![Alt text](https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/cc80c8d2cc2f4662c4d444a1df54b472b261483f/img/Banner.jpg)
 
-<a href="www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5">
-<img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
-</a>
+[![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
 ## About me :wave:
 
@@ -41,3 +39,4 @@ Any
 
 [Discord]: https://discord.gg/WQyc4R2PzG
 
+[Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
