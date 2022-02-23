@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
 ## About me :wave:
 
 My name is Nguyen Ngoc Bao Long and I like to learn languages, frameworks, and tools to support my project.
