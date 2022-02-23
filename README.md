@@ -2,7 +2,7 @@
 
 
 
-## About me
+## About me :wave:
 
 My name is Nguyen Ngoc Bao Long and I like to learn languages, frameworks, and tools to support my project.
 
