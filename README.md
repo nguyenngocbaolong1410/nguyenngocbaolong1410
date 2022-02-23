@@ -2,7 +2,7 @@
 
 [![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5/)  
 
 ## About me :wave:
 
