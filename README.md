@@ -1,11 +1,6 @@
 ![Alt text](https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/cc80c8d2cc2f4662c4d444a1df54b472b261483f/img/Banner.jpg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
-<<<<<<< HEAD
-=======
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
->>>>>>> e25710cea500044726825d606f90524c5f54c68a
+[![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
 ## About me :wave:
 
@@ -44,7 +39,4 @@ Any
 
 [Discord]: https://discord.gg/WQyc4R2PzG
 
-<<<<<<< HEAD
-=======
 [Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
->>>>>>> e25710cea500044726825d606f90524c5f54c68a
