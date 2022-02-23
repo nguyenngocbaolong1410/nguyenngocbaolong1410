@@ -1,16 +1,9 @@
 ![Alt text](https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/cc80c8d2cc2f4662c4d444a1df54b472b261483f/img/Banner.jpg)
 
-[![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5) 
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+<p align='left'>
+  <a href="www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
 ## About me :wave:
