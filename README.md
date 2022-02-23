@@ -2,7 +2,7 @@
 
 [![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
-[<img src='https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/main/img/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5/)  
 
 ## About me :wave:
 
