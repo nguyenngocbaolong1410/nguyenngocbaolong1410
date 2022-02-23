@@ -2,6 +2,8 @@
 
 [![Linkedin]](www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5/)  
+
 ## About me :wave:
 
 My name is Nguyen Ngoc Bao Long and I like to learn languages, frameworks, and tools to support my project.
