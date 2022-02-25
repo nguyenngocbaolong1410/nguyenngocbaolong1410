@@ -1,4 +1,4 @@
-![Alt text](https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/cc80c8d2cc2f4662c4d444a1df54b472b261483f/img/Banner.jpg)
+![Alt text](https://github.com/nguyenngocbaolong1410/nguyenngocbaolong1410/blob/main/img/Banner.jpg)
 
 [![Linkedin]](https://linkedin.com/in/bảo-long-nguyễn-ngọc-62bb061b5) 
 
